@@ -1,0 +1,20 @@
+.div {
+    width: 200px;
+    height: 100vh;
+    background-color: red;
+}
+h2 {
+    color: blue;
+}
+.btn {
+    width: 500px;
+    height: 500px;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+	background-color: yellowgreen;
+}
